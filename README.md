@@ -1,2 +1,2 @@
 # Code-Kshetra
-Website for the hackathon 
+Website for the hackathon (conducted in the college)
